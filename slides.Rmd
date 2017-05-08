@@ -1,7 +1,7 @@
 ---
 title: "Speeding up what we know about marine biodiversity"
 subtitle: ""
-author: "François Michonneau"
+author: "François Michonneau, <br> Postdoctoral Researcher, Whitney Lab/FLMNH"
 date: "May 8th, 2017"
 output:
   xaringan::moon_reader:
