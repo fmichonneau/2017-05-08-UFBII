@@ -307,11 +307,39 @@ idig_spp_through_time
 
 <img src="images/metabarcoding.png" height="300px" />
 
+
 ---
+
+# Future approaches
+
+## Using metabarcoding
+
+
+.pull-left[
+
+### What can it tell us?
+
+* Number of species
+* Where are the species distributed?
+* Applicable to many types of environmental samples
+* **Well-suited for monitoring**
+
+### Pre-requisites
+
+* Comprehensive and accurate databases
+
+]
+
+
+.pull-right[<img src="images/metabarcoding.png" height="200px" />]
+
+---
+
 
 ```{r, echo=FALSE, dev="CairoSVG", fig.height=13}
 plot_gom
 ```
+
 
 ---
 
@@ -327,10 +355,22 @@ plot_gom
 
 --
 
-## Conclusion
+## Conclusions
 
 > Better understanding of ecological and historical processes that are shaping
 > marine biodiversity.
+
+---
+
+# Thank you
+
+* UFBI
+* The Whitney Lab
+* Biodiversity Information Systems:
+  - iDigBio
+  - GBIF
+  - OBIS
+* rOpenSci
 
 ---
 class: inverse, center, middle
